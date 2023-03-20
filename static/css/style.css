@@ -1,0 +1,92 @@
+#content{
+    border: ridge;
+    border-width: 20px 20px 20px 20px;
+    border-radius: 5px;
+    border-color: rgb(103, 103, 142);
+}
+.logo{
+    margin-left: 400px;
+    margin-top: 20px;
+}
+h1{
+    width:450px ;
+    margin-left: -100px;
+    font-family: "Intro";
+}
+h3{
+    width: 500px;
+    margin-left: -100px;
+}
+
+.lan{
+    margin-bottom: -70px;
+    margin-left: 500px;
+}
+#second2{
+    margin-left: 20px;
+    margin-top: -15px;
+    
+}
+.pr{
+    width: 800px;
+    margin-left: 20px;
+}
+.pu{
+    margin-left: 20px;
+}
+.second{
+    margin-top: -620px;
+    margin-left: 900px;
+    margin-bottom: 30px;
+    backdrop-filter: blur(10px);
+    box-shadow: 0 0 30px rgba(8, 7, 16, 0.6);
+    
+}
+button{
+    margin-top: 80px;
+    width: 80px;
+    height: 40px;
+    margin-bottom: 30px;
+    border-radius: 2px;
+    background-color: rgb(92, 92, 214);
+}
+.photo{
+    padding-top: 10%;
+    text-align: center;
+    box-shadow: 0px 1px 4px 1px #151516;
+    background-color: rgb(179, 177, 228);
+}
+.do {
+    margin-left: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+}
+input{
+    width: 280px;
+    margin-top: 20px;
+}
+#check{
+    width: 20px;
+}
+select{
+    margin-top: 20px;
+    border-radius: 0;
+    background: transparent;
+    height: 25px;
+    padding: 5px;
+    border: 0;
+    font-size: 16px;
+    line-height: 1;
+    -webkit-appearance: none;
+    width: 268px;
+    border: 1px solid #d3d3d3;
+    overflow: hidden; 
+    height: 25px;
+    background: url(http://wpandyou.ru/wp-content/uploads/2013/01/down_arrow_select.jpg) no-repeat right #DDD;
+    width: 300px;
+    background-color: #ffffff;
+}
+
+
+
+
